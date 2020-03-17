@@ -2,6 +2,7 @@
 
 This is a basic Twitter iOS app to view, compose, favorite, and retweet tweets.
 
+---
 ## User Stories
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in. 
