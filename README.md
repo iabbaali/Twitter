@@ -28,4 +28,4 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/Jt3WvCoaUE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ---
-**NOTE**: When cloning this application, there are a few pieces of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 2 constant variables: consumerKey and consumerSecret. These 2 constants are used to communicate with the Twitter API. After configuring this constant, you can successfully run this Twitter client!
+**NOTE**: When cloning this application, there are a few pieces of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 2 constant variables: consumerKey and consumerSecret. These 2 constants are used to communicate with the Twitter API. After configuring these constants, you can successfully run this Twitter client!
